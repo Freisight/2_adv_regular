@@ -16,3 +16,7 @@ pprint(contacts_list)
 #   datawriter = csv.writer(f, delimiter=',')
 #   # Вместо contacts_list подставьте свой список
 #   datawriter.writerows(contacts_list)
+
+
+
+# testing
